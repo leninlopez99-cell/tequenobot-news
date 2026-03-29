@@ -160,8 +160,15 @@
       "categoria": "economia",
       "timestamp": "2026-03-29T08:37:07.622Z",
       "normalizado": "eeuu flexibiliza sanciones sobre el sector minero venezolano con tres nuevas licencias"
+    },
+    {
+      "titulo": "Administración de Delcy Rodríguez asegura que retomó el control de sedes diplomáticas en EE. UU.",
+      "enlace": "https://elpitazo.net/politica/venezuela-retoma-control-de-sus-sedes-diplomaticas-en-ee-uu/",
+      "categoria": "nacionales",
+      "timestamp": "2026-03-29T08:39:11.079Z",
+      "normalizado": "administracin de delcy rodrguez asegura que retom el control de sedes diplomticas en ee uu"
     }
   ],
-  "ultimaActualizacion": "2026-03-29T08:37:28.977Z",
-  "totalEnCache": 23
+  "ultimaActualizacion": "2026-03-29T08:39:29.060Z",
+  "totalEnCache": 24
 }
