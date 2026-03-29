@@ -132,8 +132,15 @@
       "categoria": "economia",
       "timestamp": "2026-03-29T08:25:44.645Z",
       "normalizado": "bid fortalece la resiliencia de pequeos productores rurales en mxico con donacin de usd 8 millones"
+    },
+    {
+      "titulo": "Excarcelada la abogada del diario La Voz, Blanca Suárez: “Estoy lista para ejercer mi profesión y reconstruir el país”",
+      "enlace": "https://elpitazo.net/regiones/gran-caracas/excarcelada-la-abogada-del-diario-la-voz-blanca-suarez-estoy-lista-para-ejercer-mi-profesion-y-reconstruir-el-pais/",
+      "categoria": "nacionales",
+      "timestamp": "2026-03-29T08:30:40.123Z",
+      "normalizado": "excarcelada la abogada del diario la voz blanca surez estoy lista para ejercer mi profesin y reconstruir el pas"
     }
   ],
-  "ultimaActualizacion": "2026-03-29T08:26:05.277Z",
-  "totalEnCache": 19
+  "ultimaActualizacion": "2026-03-29T08:30:58.077Z",
+  "totalEnCache": 20
 }
