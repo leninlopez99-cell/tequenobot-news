@@ -139,8 +139,15 @@
       "categoria": "nacionales",
       "timestamp": "2026-03-29T08:30:40.123Z",
       "normalizado": "excarcelada la abogada del diario la voz blanca surez estoy lista para ejercer mi profesin y reconstruir el pas"
+    },
+    {
+      "titulo": "México tendrá nuevo mecanismo contra evasión de impuestos y mercado ilegal de combustible",
+      "enlace": "https://www.bancaynegocios.com/mexico-tendra-nuevo-mecanismo-contra-evasion-de-impuestos-y-mercado-ilegal-de-combustible/",
+      "categoria": "economia",
+      "timestamp": "2026-03-29T08:32:04.501Z",
+      "normalizado": "mxico tendr nuevo mecanismo contra evasin de impuestos y mercado ilegal de combustible"
     }
   ],
-  "ultimaActualizacion": "2026-03-29T08:30:58.077Z",
-  "totalEnCache": 20
+  "ultimaActualizacion": "2026-03-29T08:32:23.139Z",
+  "totalEnCache": 21
 }
