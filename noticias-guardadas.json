@@ -55,8 +55,22 @@
       "categoria": "nacionales",
       "timestamp": "2026-03-29T07:56:46.523Z",
       "normalizado": "el rgimen retom el control de las sedes diplomticas de venezuela en eeuu"
+    },
+    {
+      "titulo": "Ciudadanos marcharon en Lara para exigir la convocatoria de elecciones presidenciales",
+      "enlace": "https://monitoreamos.com/venezuela/alfredo-ramos-encabezo-movilizacion-en-cabudare-para-exigir-la-convocatoria-de-elecciones-presidenciales",
+      "categoria": "nacionales",
+      "timestamp": "2026-03-29T08:00:51.988Z",
+      "normalizado": "ciudadanos marcharon en lara para exigir la convocatoria de elecciones presidenciales"
+    },
+    {
+      "titulo": "SNTP denuncia intimidación policial contra el periodista Jesús Gutiérrez Andúz cuando cubría protesta en las puertas del Helicoide",
+      "enlace": "https://monitoreamos.com/venezuela/sntp-denuncia-intimidacion-policial-contra-el-periodista-jesus-gutierrez-anduz-cuando-cubria-protesta-en-las-puertas-del-helicoide",
+      "categoria": "nacionales",
+      "timestamp": "2026-03-29T08:00:54.433Z",
+      "normalizado": "sntp denuncia intimidacin policial contra el periodista jess gutirrez andz cuando cubra protesta en las puertas del helicoide"
     }
   ],
-  "ultimaActualizacion": "2026-03-29T07:57:04.813Z",
-  "totalEnCache": 8
+  "ultimaActualizacion": "2026-03-29T08:01:10.551Z",
+  "totalEnCache": 10
 }
