@@ -146,8 +146,15 @@
       "categoria": "economia",
       "timestamp": "2026-03-29T08:32:04.501Z",
       "normalizado": "mxico tendr nuevo mecanismo contra evasin de impuestos y mercado ilegal de combustible"
+    },
+    {
+      "titulo": "El 80% del rebaño ganadero venezolano está en manos de pequeños y medianos productores",
+      "enlace": "https://www.bancaynegocios.com/el-80-porciento-del-rebano-ganadero-venezolano-esta-en-manos-de-pequenos-y-medianos-productores/",
+      "categoria": "economia",
+      "timestamp": "2026-03-29T08:35:39.929Z",
+      "normalizado": "el 80 del rebao ganadero venezolano est en manos de pequeos y medianos productores"
     }
   ],
-  "ultimaActualizacion": "2026-03-29T08:32:23.139Z",
-  "totalEnCache": 21
+  "ultimaActualizacion": "2026-03-29T08:36:01.257Z",
+  "totalEnCache": 22
 }
