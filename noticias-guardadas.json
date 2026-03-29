@@ -41,8 +41,22 @@
       "categoria": "nacionales",
       "timestamp": "2026-03-29T07:38:03.323Z",
       "normalizado": "los palmeros de chacao bajaron del vila con palmas para el domingo de ramos"
+    },
+    {
+      "titulo": "Reabrió la sede de Vente: «María Corina va a llegar a Venezuela en los próximos días»",
+      "enlace": "https://monitoreamos.com/destacado/henry-alviarez-maria-corina-va-a-llegar-a-venezuela-en-los-proximos-dias",
+      "categoria": "nacionales",
+      "timestamp": "2026-03-29T07:56:44.232Z",
+      "normalizado": "reabri la sede de vente mara corina va a llegar a venezuela en los prximos das"
+    },
+    {
+      "titulo": "El régimen retomó el control de las sedes diplomáticas de Venezuela en EE.UU.",
+      "enlace": "https://monitoreamos.com/venezuela/el-regimen-chavista-retomo-el-control-de-las-sedes-diplomaticas-de-venezuela-en-ee-uu",
+      "categoria": "nacionales",
+      "timestamp": "2026-03-29T07:56:46.523Z",
+      "normalizado": "el rgimen retom el control de las sedes diplomticas de venezuela en eeuu"
     }
   ],
-  "ultimaActualizacion": "2026-03-29T07:38:19.012Z",
-  "totalEnCache": 6
+  "ultimaActualizacion": "2026-03-29T07:57:04.813Z",
+  "totalEnCache": 8
 }
