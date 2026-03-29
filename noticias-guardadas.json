@@ -1,0 +1,20 @@
+{
+  "noticias": [
+    {
+      "titulo": "Tasa de Cambio BCV 30 de marzo de 2026: 471,7004 Bs/USD (+0,68%)",
+      "enlace": "https://finanzasdigital.com/tasa-de-cambio-bcv-30-marzo-2026/",
+      "categoria": "economia",
+      "timestamp": "2026-03-29T07:33:57.440Z",
+      "normalizado": "tasa de cambio bcv 30 de marzo de 2026 4717004 bsusd 068"
+    },
+    {
+      "titulo": "Los cambios militares tras la Nicolás Maduro: lectura de exmiembros de la Fanb",
+      "enlace": "https://efectococuyo.com/politica/cambios-militares-extraccion-nicolas-maduro-lectura-exmiembros-fanb/",
+      "categoria": "nacionales",
+      "timestamp": "2026-03-29T07:33:59.706Z",
+      "normalizado": "los cambios militares tras la nicols maduro lectura de exmiembros de la fanb"
+    }
+  ],
+  "ultimaActualizacion": "2026-03-29T07:34:16.873Z",
+  "totalEnCache": 2
+}
