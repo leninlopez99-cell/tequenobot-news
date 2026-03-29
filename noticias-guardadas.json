@@ -244,8 +244,15 @@
       "categoria": "nacionales",
       "timestamp": "2026-03-29T10:22:16.633Z",
       "normalizado": "la revancha de la democracia"
+    },
+    {
+      "titulo": "El estreno soñado de Luis Robert Jr.: Jonrón de \"walk-off\" para darle el triunfo a los Mets",
+      "enlace": "https://meridiano.net/usa/beisbol/beisbol-grandes-ligas/el-estreno-sonado-de-luis-robert-jr-jonron-de-walk-off-para-darle-el-triunfo-a-los-mets-20263282360",
+      "categoria": "deportes",
+      "timestamp": "2026-03-29T10:28:24.896Z",
+      "normalizado": "el estreno soado de luis robert jr jonrn de walkoff para darle el triunfo a los mets"
     }
   ],
-  "ultimaActualizacion": "2026-03-29T10:22:38.410Z",
-  "totalEnCache": 35
+  "ultimaActualizacion": "2026-03-29T10:28:45.667Z",
+  "totalEnCache": 36
 }
