@@ -181,8 +181,15 @@
       "categoria": "nacionales",
       "timestamp": "2026-03-29T08:45:13.049Z",
       "normalizado": "henry alviarez en unos das recibiremos a mara corina machado que viene a recorrer el pas"
+    },
+    {
+      "titulo": "Argentina logró la refinanciación total de sus vencimientos de deuda inminentes",
+      "enlace": "https://www.bancaynegocios.com/argentina-logro-la-refinanciacion-total-de-sus-vencimientos-de-deuda-inminentes/",
+      "categoria": "economia",
+      "timestamp": "2026-03-29T08:46:41.697Z",
+      "normalizado": "argentina logr la refinanciacin total de sus vencimientos de deuda inminentes"
     }
   ],
-  "ultimaActualizacion": "2026-03-29T08:45:35.058Z",
-  "totalEnCache": 26
+  "ultimaActualizacion": "2026-03-29T08:47:05.003Z",
+  "totalEnCache": 27
 }
