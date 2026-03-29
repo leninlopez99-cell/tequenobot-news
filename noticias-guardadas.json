@@ -76,8 +76,15 @@
       "categoria": "deportes",
       "timestamp": "2026-03-29T22:55:02.114Z",
       "normalizado": "as quedaron los resultados de las carreras de la rinconada 29032026"
+    },
+    {
+      "titulo": "Rescatan a ocho trabajadores que habían quedados atrapados en un túnel del sistema hídrico de Turimiquire, Sucre",
+      "enlace": "https://albertonews.com/nacionales/rescatan-a-ocho-trabajadores-que-habian-quedados-atrapados-en-un-tunel-del-sistema-hidrico-de-turimiquire-sucre/",
+      "categoria": "nacionales",
+      "timestamp": "2026-03-29T22:56:01.543Z",
+      "normalizado": "rescatan a ocho trabajadores que haban quedados atrapados en un tnel del sistema hdrico de turimiquire sucre"
     }
   ],
-  "ultimaActualizacion": "2026-03-29T22:55:09.084Z",
-  "totalEnCache": 11
+  "ultimaActualizacion": "2026-03-29T22:56:23.714Z",
+  "totalEnCache": 12
 }
