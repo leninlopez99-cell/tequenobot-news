@@ -202,8 +202,15 @@
       "categoria": "economia",
       "timestamp": "2026-03-29T09:04:47.325Z",
       "normalizado": "venezuela busca reactivar vuelos con canad y alemania"
+    },
+    {
+      "titulo": "Starmer cree en el futuro no le perdonarán si no actúa contra la adicción de las redes",
+      "enlace": "https://albertonews.com/internacionales/starmer-cree-en-el-futuro-no-le-perdonaran-si-no-actua-contra-la-adiccion-de-las-redes/",
+      "categoria": "nacionales",
+      "timestamp": "2026-03-29T09:11:21.292Z",
+      "normalizado": "starmer cree en el futuro no le perdonarn si no acta contra la adiccin de las redes"
     }
   ],
-  "ultimaActualizacion": "2026-03-29T09:05:06.893Z",
-  "totalEnCache": 29
+  "ultimaActualizacion": "2026-03-29T09:11:41.213Z",
+  "totalEnCache": 30
 }
