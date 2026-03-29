@@ -153,8 +153,15 @@
       "categoria": "economia",
       "timestamp": "2026-03-29T08:35:39.929Z",
       "normalizado": "el 80 del rebao ganadero venezolano est en manos de pequeos y medianos productores"
+    },
+    {
+      "titulo": "EEUU flexibiliza sanciones sobre el sector minero venezolano con tres nuevas licencias",
+      "enlace": "https://finanzasdigital.com/licencias-ofac-sector-minero-venezuela/",
+      "categoria": "economia",
+      "timestamp": "2026-03-29T08:37:07.622Z",
+      "normalizado": "eeuu flexibiliza sanciones sobre el sector minero venezolano con tres nuevas licencias"
     }
   ],
-  "ultimaActualizacion": "2026-03-29T08:36:01.257Z",
-  "totalEnCache": 22
+  "ultimaActualizacion": "2026-03-29T08:37:28.977Z",
+  "totalEnCache": 23
 }
