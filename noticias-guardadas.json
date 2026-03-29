@@ -69,8 +69,22 @@
       "categoria": "nacionales",
       "timestamp": "2026-03-29T08:00:54.433Z",
       "normalizado": "sntp denuncia intimidacin policial contra el periodista jess gutirrez andz cuando cubra protesta en las puertas del helicoide"
+    },
+    {
+      "titulo": "Delsa Solórzano encabezó pleno organizativo con dirigentes de Encuentro Ciudadano de los 21 municipios de Miranda",
+      "enlace": "https://monitoreamos.com/venezuela/delsa-solorzano-encabezo-pleno-organizativo-con-dirigentes-de-encuentro-ciudadano-de-los-21-municipios-de-miranda",
+      "categoria": "nacionales",
+      "timestamp": "2026-03-29T08:02:05.620Z",
+      "normalizado": "delsa solrzano encabez pleno organizativo con dirigentes de encuentro ciudadano de los 21 municipios de miranda"
+    },
+    {
+      "titulo": "Ministerio de Transporte anuncia medidas para regular tarifas de estacionamientos",
+      "enlace": "https://elestimulo.com/venezuela/2026-03-28/estacionamientos-medidas/",
+      "categoria": "nacionales",
+      "timestamp": "2026-03-29T08:02:08.003Z",
+      "normalizado": "ministerio de transporte anuncia medidas para regular tarifas de estacionamientos"
     }
   ],
-  "ultimaActualizacion": "2026-03-29T08:01:10.551Z",
-  "totalEnCache": 10
+  "ultimaActualizacion": "2026-03-29T08:02:27.030Z",
+  "totalEnCache": 12
 }
