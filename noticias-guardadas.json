@@ -223,8 +223,15 @@
       "categoria": "nacionales",
       "timestamp": "2026-03-30T00:41:31.085Z",
       "normalizado": "rescatan sanos y salvos a ocho trabajadores que haban quedados atrapados en un tnel del sistema hdrico turimiquire sucre"
+    },
+    {
+      "titulo": "Accidente en túnel del embalse Turimiquire: esto es lo que se sabe",
+      "enlace": "https://elestimulo.com/venezuela/2026-03-29/turimiquire-accidente-embalse/",
+      "categoria": "nacionales",
+      "timestamp": "2026-03-30T00:44:40.884Z",
+      "normalizado": "accidente en tnel del embalse turimiquire esto es lo que se sabe"
     }
   ],
-  "ultimaActualizacion": "2026-03-30T00:41:48.425Z",
-  "totalEnCache": 32
+  "ultimaActualizacion": "2026-03-30T00:45:00.058Z",
+  "totalEnCache": 33
 }
