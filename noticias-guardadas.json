@@ -209,8 +209,15 @@
       "categoria": "economia",
       "timestamp": "2026-03-30T00:24:06.855Z",
       "normalizado": "reportan falla en el servicio de internet aba ultra cantv en diferentes zonas de baruta"
+    },
+    {
+      "titulo": "¿Refresco de oro? El polémico vaso de 75 dólares de Shohei Ohtani en Dodger Stadium",
+      "enlace": "https://meridiano.net/usa/beisbol/beisbol-grandes-ligas/refresco-de-oro-el-polemico-vaso-de-75-dolares-de-shohei-ohtani-en-dodger-stadium-202632919410",
+      "categoria": "deportes",
+      "timestamp": "2026-03-30T00:35:32.180Z",
+      "normalizado": "refresco de oro el polmico vaso de 75 dlares de shohei ohtani en dodger stadium"
     }
   ],
-  "ultimaActualizacion": "2026-03-30T00:24:26.918Z",
-  "totalEnCache": 30
+  "ultimaActualizacion": "2026-03-30T00:35:52.407Z",
+  "totalEnCache": 31
 }
