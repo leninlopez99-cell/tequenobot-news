@@ -216,8 +216,15 @@
       "categoria": "deportes",
       "timestamp": "2026-03-30T00:35:32.180Z",
       "normalizado": "refresco de oro el polmico vaso de 75 dlares de shohei ohtani en dodger stadium"
+    },
+    {
+      "titulo": "Rescatan sanos y salvos a ocho trabajadores que habían quedados atrapados en un túnel del sistema hídrico Turimiquire, Sucre",
+      "enlace": "https://albertonews.com/nacionales/rescatan-a-ocho-trabajadores-que-habian-quedados-atrapados-en-un-tunel-del-sistema-hidrico-de-turimiquire-sucre/",
+      "categoria": "nacionales",
+      "timestamp": "2026-03-30T00:41:31.085Z",
+      "normalizado": "rescatan sanos y salvos a ocho trabajadores que haban quedados atrapados en un tnel del sistema hdrico turimiquire sucre"
     }
   ],
-  "ultimaActualizacion": "2026-03-30T00:35:52.407Z",
-  "totalEnCache": 31
+  "ultimaActualizacion": "2026-03-30T00:41:48.425Z",
+  "totalEnCache": 32
 }
