@@ -202,8 +202,15 @@
       "categoria": "nacionales",
       "timestamp": "2026-03-30T00:00:49.494Z",
       "normalizado": "tras salida de padrino lpez cul es el rol y destino del ministro cabello"
+    },
+    {
+      "titulo": "Reportan falla en el servicio de Internet Aba Ultra Cantv en diferentes zonas de Baruta",
+      "enlace": "https://www.bancaynegocios.com/reportan-falla-en-el-servicio-de-internet-aba-ultra-cantv-en-diferentes-zonas-de-baruta/",
+      "categoria": "economia",
+      "timestamp": "2026-03-30T00:24:06.855Z",
+      "normalizado": "reportan falla en el servicio de internet aba ultra cantv en diferentes zonas de baruta"
     }
   ],
-  "ultimaActualizacion": "2026-03-30T00:01:10.506Z",
-  "totalEnCache": 29
+  "ultimaActualizacion": "2026-03-30T00:24:26.918Z",
+  "totalEnCache": 30
 }
