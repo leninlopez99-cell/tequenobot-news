@@ -1,14 +1,14 @@
 {
   "dolar": {
     "bcv": "471.70",
-    "paralelo": "649.95",
+    "paralelo": "656.53",
     "moneda": "USD"
   },
   "euro": {
     "bcv": "543.94",
-    "paralelo": "746.37",
+    "paralelo": "751.96",
     "moneda": "EUR"
   },
-  "fecha": "30/03/2026, 09:11 a. m.",
-  "timestamp": "2026-03-30T13:11:35.832Z"
+  "fecha": "30/03/2026, 01:00 p. m.",
+  "timestamp": "2026-03-30T17:00:02.815Z"
 }
