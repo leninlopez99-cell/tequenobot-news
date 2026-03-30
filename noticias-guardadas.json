@@ -230,8 +230,15 @@
       "categoria": "nacionales",
       "timestamp": "2026-03-30T00:44:40.884Z",
       "normalizado": "accidente en tnel del embalse turimiquire esto es lo que se sabe"
+    },
+    {
+      "titulo": "Maduro hace un llamado «a la paz y el perdón»",
+      "enlace": "https://elestimulo.com/venezuela/2026-03-29/maduro-llamado-paz-perdon/",
+      "categoria": "nacionales",
+      "timestamp": "2026-03-30T00:47:19.079Z",
+      "normalizado": "maduro hace un llamado a la paz y el perdn"
     }
   ],
-  "ultimaActualizacion": "2026-03-30T00:45:00.058Z",
-  "totalEnCache": 33
+  "ultimaActualizacion": "2026-03-30T00:47:37.727Z",
+  "totalEnCache": 34
 }
